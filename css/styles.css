@@ -125,7 +125,7 @@ button:hover {
 
 /* Hero */
 .hero {
-    background-image: url("/images/background-header-hero.png");
+    background-image: url("../images/background-header-hero.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -160,7 +160,7 @@ button:hover {
 (min-resolution: 2dppx),
 (min-resolution: 192dpi) {
     .hero {
-        background-image: url("/images/background-header-hero-2x.png");
+        background-image: url("../images/background-header-hero-2x.png");
     }
 }
 
@@ -207,7 +207,7 @@ button:hover {
 .about-item {
     margin-top: 65px;
     height: 759px;
-    background-image: url("/images/about.png");
+    background-image: url("../images/about.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center 22px;
@@ -218,7 +218,7 @@ button:hover {
 (min-resolution: 2dppx),
 (min-resolution: 192dpi) {
     .about-item {
-        background-image: url("/images/about-2x.png");
+        background-image: url("../images/about-2x.png");
     }
 }
 
@@ -320,7 +320,7 @@ button:hover {
 /* problems */
 .problems {
     padding: 57px 0 400px 0;
-    background-image: url("/images/problems.png");
+    background-image: url("../images/problems.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -329,7 +329,7 @@ button:hover {
 (min-resolution: 2dppx),
 (min-resolution: 192dpi) {
     .problems {
-        background-image: url("/images/problems-2x.png");
+        background-image: url("../images/problems-2x.png");
     }
 }
 
@@ -410,7 +410,7 @@ button:hover {
 .pricing {
     padding-top: 43px;
     height: 325px;
-    background-image: url(/images/price.png);
+    background-image: url(../images/price.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -420,7 +420,7 @@ button:hover {
 (min-resolution: 2dppx),
 (min-resolution: 192dpi) {
     .pricing {
-        background-image: url("/images/price-2x.png");
+        background-image: url("../images/price-2x.png");
     }
 }
 
